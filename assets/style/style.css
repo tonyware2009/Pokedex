@@ -1,0 +1,18 @@
+/* BASIC STYLES HERE */
+.wild{
+  
+  width: 50%;
+  border: 1px solid;
+  border-color: black
+
+  
+}
+
+.caught{
+  height: 50vh;
+  width: 50%;
+  border: 1px solid;
+  border-color: black
+
+}
+
